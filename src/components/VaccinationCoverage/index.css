@@ -1,0 +1,14 @@
+.vaccine-coverage-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c2b;
+  margin: 20px;
+  padding: 10px;
+}
+.vaccine-coverage-heading {
+  color: #94a3b8;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-left: 40px;
+}
